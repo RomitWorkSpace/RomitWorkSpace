@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romit kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Node js and MongoDB**
+- 🌱 I have hand-on experience in **Node js and MongoDB**
 
 - 📝 I regularly write articles on [https://webtechstack.com](https://webtechstack.com)
 
